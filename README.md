@@ -1,4 +1,4 @@
-# Sistema Bancário - Projeto DIO
+# Sistema Bancário usando condições e estrutura de repetição em python - Projeto DIO
 
 Projeto do Bootcamp DIO que simula um sistema bancário em Python com depósito, saque e extrato.
 
